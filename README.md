@@ -1,4 +1,4 @@
-# 🛡️ SENTINEL.RS 
+# SENTINEL.RS 
 
 **High-Performance Asynchronous Port Scanner** *Developed with Rust (Backend) & React (Frontend)*
 
@@ -8,9 +8,9 @@ SENTINEL.RS is a professional-grade network auditor designed for speed, security
 
 In cybersecurity, knowing which ports are open is the first step of any vulnerability assessment. **Sentinel** automates this by:
 
-1. **Mapping:** Scanning a range of 1024 ports on a target IP.
-2. **Identifying:** Detecting active services (like HTTP, SMB, or RPC).
-3. **Auditing:** Automatically logging the scan date, IP, and found ports into a JSON database so you can track network changes over time.
+1 - **Mapping:** Scanning a range of 1024 ports on a target IP.
+2 - **Identifying:** Detecting active services (like HTTP, SMB, or RPC).
+3 - **Auditing:** Automatically logging the scan date, IP, and found ports into a JSON database so you can track network changes over time.
 
 ---
 
