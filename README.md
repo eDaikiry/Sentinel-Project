@@ -27,7 +27,7 @@ In cybersecurity, knowing which ports are open is the first step of any vulnerab
 - **Frontend (Dashboard):** [React](https://reactjs.org/), Axios, Vite, Lucide-React.
 
 ##  Installation & Setup
-Copy the folder path, for example (C:\Users\USER\Downloads\Sentinel-Project)
+Copy the folder path, for example (cd C:\Users\USER\Downloads\Sentinel-Project)
 
 ### 1. Backend Core
 ```bash
