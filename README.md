@@ -1,4 +1,5 @@
 # SENTINEL.RS 
+![SENTINEL RS JPG](https://github.com/user-attachments/assets/14354ae7-d66c-4161-b17b-54ce6969c9d3)
 
 **High-Performance Asynchronous Port Scanner** *Developed with Rust (Backend) & React (Frontend)*
 
